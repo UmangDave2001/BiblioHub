@@ -1,0 +1,8 @@
+Django>=4.2.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+django-filter>=23.3
+markdown>=3.5
+drf-yasg>=1.21.7  # For API documentation
+Pillow>=10.1.0  # For image handling
+python-dotenv>=1.0.0  # For environment variables
